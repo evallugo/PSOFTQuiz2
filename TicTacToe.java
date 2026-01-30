@@ -2,6 +2,10 @@
  * this is my edit for Q5 :) -- had to make another because my partner is delayed.
  */
 
+/*
+This is a different edit for Quiz 2 Problem 5
+*/
+
 import java.util.*;
 
 /**
