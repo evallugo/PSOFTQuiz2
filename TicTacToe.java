@@ -3,7 +3,7 @@
  */
 
 /*
-This is a different edit for Quiz 2 Problem 5
+This is a different edit for Quiz 2 Problem 5 by her partner
 */
 
 import java.util.*;
